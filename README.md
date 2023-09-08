@@ -7,6 +7,7 @@ This project is a personal collection of well-crafted solutions to various algor
 3. `calculateDivisors`
 4. `updateRemoteStudents`
 5. `tillAddition`
+6. `romanNum`
 6. `changeCalculator`
 7. `sentenceToCamelCase`
 8. `foldString`
